@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.245e745e.css",
-    "main.js": "/static/js/main.bbf403d6.js",
+    "main.css": "/static/css/main.68f5ee5e.css",
+    "main.js": "/static/js/main.880d50ff.js",
     "static/media/SEGOEUI.TTF": "/static/media/SEGOEUI.904177516a6c6c681d51.TTF",
     "static/media/CONSOLA.TTF": "/static/media/CONSOLA.252a062087ec8913016e.TTF",
     "static/media/Scandia-Medium.ttf": "/static/media/Scandia-Medium.2a72cf303a50edb41f17.ttf",
@@ -9,12 +9,12 @@
     "static/media/Scandia-Light.ttf": "/static/media/Scandia-Light.068730936eba0c2411c6.ttf",
     "static/media/Scandia-Bold.ttf": "/static/media/Scandia-Bold.3136f43b33e9e0162bd1.ttf",
     "index.html": "/index.html",
-    "static/media/RadialCircle.svg": "/static/media/RadialCircle.a90b93c88f22410590f3.svg",
-    "main.245e745e.css.map": "/static/css/main.245e745e.css.map",
-    "main.bbf403d6.js.map": "/static/js/main.bbf403d6.js.map"
+    "static/media/RadialCircle.svg": "/static/media/RadialCircle.06bc336f0d5f396abf45.svg",
+    "main.68f5ee5e.css.map": "/static/css/main.68f5ee5e.css.map",
+    "main.880d50ff.js.map": "/static/js/main.880d50ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.245e745e.css",
-    "static/js/main.bbf403d6.js"
+    "static/css/main.68f5ee5e.css",
+    "static/js/main.880d50ff.js"
   ]
 }
