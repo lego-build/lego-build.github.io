@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7fdc4f80.css",
-    "main.js": "/static/js/main.79bfb8f1.js",
+    "main.css": "/static/css/main.245e745e.css",
+    "main.js": "/static/js/main.065d7d35.js",
     "static/media/SEGOEUI.TTF": "/static/media/SEGOEUI.904177516a6c6c681d51.TTF",
     "static/media/CONSOLA.TTF": "/static/media/CONSOLA.252a062087ec8913016e.TTF",
     "static/media/Scandia-Medium.ttf": "/static/media/Scandia-Medium.2a72cf303a50edb41f17.ttf",
@@ -10,11 +10,11 @@
     "static/media/Scandia-Bold.ttf": "/static/media/Scandia-Bold.3136f43b33e9e0162bd1.ttf",
     "index.html": "/index.html",
     "static/media/RadialCircle.svg": "/static/media/RadialCircle.a90b93c88f22410590f3.svg",
-    "main.7fdc4f80.css.map": "/static/css/main.7fdc4f80.css.map",
-    "main.79bfb8f1.js.map": "/static/js/main.79bfb8f1.js.map"
+    "main.245e745e.css.map": "/static/css/main.245e745e.css.map",
+    "main.065d7d35.js.map": "/static/js/main.065d7d35.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fdc4f80.css",
-    "static/js/main.79bfb8f1.js"
+    "static/css/main.245e745e.css",
+    "static/js/main.065d7d35.js"
   ]
 }
